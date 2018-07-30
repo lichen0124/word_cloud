@@ -5,4 +5,4 @@ users can choose the movie they want to review;
 
 collect the first 200 reviews of the movie;
 
-the font package is attached.
+simhei.ttf is the font package which should be downloaded to the code directory.
